@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+button {
+  margin: 5px;
+}
+
+input {
+  margin: 5px;
+}
